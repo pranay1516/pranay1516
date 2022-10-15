@@ -3,7 +3,7 @@
 - 🌱 Currently looking for a job role to prove myself in the field of Analyst
 - 💞️ I have done few interesting projects on Data Science
 - ✨ I'm looking for collaboration on Analytical projects to provide best solution for business needs
-- 📫 How to reach me, mail:prany151001@gmail.com
+- 📫 How to reach me, mail: prany.srmist@gmail.com
 
 <!---
 pranay1516/pranay1516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
